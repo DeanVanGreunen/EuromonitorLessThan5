@@ -1,0 +1,7 @@
+D:\Storage\Dean Van Greunen\Jobs\Euromonitor\EuromonitorLessThan5\EuromonitorLessThan5\obj\Debug\EuromonitorLessThan5.csprojAssemblyReference.cache
+D:\Storage\Dean Van Greunen\Jobs\Euromonitor\EuromonitorLessThan5\EuromonitorLessThan5\obj\Debug\EuromonitorLessThan5.csproj.CoreCompileInputs.cache
+D:\Storage\Dean Van Greunen\Jobs\Euromonitor\EuromonitorLessThan5\EuromonitorLessThan5\bin\Debug\EuromonitorLessThan5.exe.config
+D:\Storage\Dean Van Greunen\Jobs\Euromonitor\EuromonitorLessThan5\EuromonitorLessThan5\bin\Debug\EuromonitorLessThan5.exe
+D:\Storage\Dean Van Greunen\Jobs\Euromonitor\EuromonitorLessThan5\EuromonitorLessThan5\bin\Debug\EuromonitorLessThan5.pdb
+D:\Storage\Dean Van Greunen\Jobs\Euromonitor\EuromonitorLessThan5\EuromonitorLessThan5\obj\Debug\EuromonitorLessThan5.exe
+D:\Storage\Dean Van Greunen\Jobs\Euromonitor\EuromonitorLessThan5\EuromonitorLessThan5\obj\Debug\EuromonitorLessThan5.pdb
